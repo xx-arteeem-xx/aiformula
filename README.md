@@ -25,7 +25,7 @@ Just create project and add a readme
 
 ## Creators
 Xx_arteeem_xX - <a href='https://github.com/xx-arteeem-xx/'>https://github.com/xx-arteeem-xx/ </a> <br>
-Dins - Not GitHub account yet...
+Dins - <a href='https://github.com/Diohis/'>https://github.com/xx-arteeem-xx/ </a> <br>
 
 ## Donate
 If you like our project, you can donate:
