@@ -12,7 +12,7 @@ If we just don't pay attention to ChatGPT, we still have good product. Big datab
 ### Laravel
 Laravel is a web application framework with expressive, elegant syntax. A web framework provides a structure and starting point for creating your application, allowing you to focus on creating something amazing while we sweat the details.
 
-### MySql
+### PostgreSql
 MySQL is a popular, free software relational database management system. It is often used in conjunction with web applications (such as many PHP sites), but has gained many more enterprise-level features since its start in 1994.
 
 ### Apache
