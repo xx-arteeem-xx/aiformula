@@ -24,8 +24,8 @@ The Apache HTTP Server is a free and open-source cross-platform web server softw
 Just create project and add a readme
 
 ## Creators
-Xx_arteeem_xX - <a href='https://github.com/xx-arteeem-xx/'>https://github.com/xx-arteeem-xx/ </a> <br>
-Dins - Not GitHub account yet...
+Xx_arteeem_xX - https://github.com/xx-arteeem-xx/<br>
+Dins - https://github.com/Diohis/
 
 ## Donate
 If you like our project, you can donate:
