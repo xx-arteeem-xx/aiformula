@@ -26,4 +26,14 @@ Route::get('/login', function () {
     return view('login');
 });
 
+Route::get('/category', function () {
+    return view('category');
+});
 
+Route::get('/profile', function () {
+    return view('profile');
+});
+
+Route::get('/formula', function () {
+    return view('formula');
+});
