@@ -24,8 +24,8 @@
         </ul>
 
         <div class="col-md-3 text-end">
-            <button type="button" class="btn btn-outline-secondary me-2">Войти</button>
-            <button type="button" class="btn btn-primary">Зарегистрироваться</button>
+            <a href="/login"><button type="button" class="btn btn-outline-secondary me-2">Войти</button></a>
+            <a href="/register"><button type="button" class="btn btn-primary">Зарегистрироваться</button></a>
         </div>
     </header>
 </div>
